@@ -1,51 +1,51 @@
-tag,description
-ableism,ableism
-trans_care,accesing surgery or hormones
-admin_and_office,admin and office
-affirming,affirming experiences
-american_indian_or_native_american,american indian or native american
-anxiety,anxiety
+tags,description
+american-indian,american indian or native american
 asian,Asian perspectives
+black,Black or African American perspectives
+latinx,Latinx perspectives
+nhpi,Native Hawaiian or Pacific Islander perspectives
+other,prefer not to say or use these categories
+white,Mixed-race perspectives
+ableism,ableism
+trans,accesing surgery or hormones
+admin,admin and office
+affirming,affirming experiences
+anxiety,anxiety
 avoiding,avoiding care
-black_or_african_american,Black or African American perspectives
-chronic_conditions,chronic conditions
-competent_care,competent care
-contraception_and_birth_control,contraceptiand birth control
-cost_of_care,cost of care
+chronic,chronic conditions
+competent,competent care
+contraception,contraceptiand birth control
+cost,cost of care
 covid-19,covid-19
-delayed_diagnosis,delayed diagnosis
-delaying_care,delaying care
+diagnosisdelayed,delayed diagnosis
+delay,delaying care
 fatphobia,fatphobia
 homelessness,homelessness
 homophobia,homophobia
 insurance,insurance
 intersex,intersex experiences
-culturally_competent_providers,lack of culturally competent providers
-provider_knowledge_gap,lack of provider knowledge
-latinx,Latinx perspectives
-long_wait_times_and_delays,long wait times and delays
-medical_harm,medical harm
-medical_trauma,medical trauma
-middle_eastern_or_north_african,middle eastern or north african
+culturalcompetence,lack of culturally competent providers
+knowledge,lack of provider knowledge
+waits,long wait times and delays
+harm,medical harm
+trauma,medical trauma
+middleeastern,middle eastern or north african
 misgendering,misgendering
-native_hawaiian_or_pacific_islander,Native Hawaiian or Pacific Islander perspectives
-navigating_care,navigating care
+navigating,navigating care
 neurodivergence,neurodivergence
-new_to_oregon,new to Oregon
-other_provider_bias,other provider bias
+new,new to Oregon
+otherbias,other provider bias
 overtreatment,overtreatment
-prefer_not_use_these_categories,prefer not to say or use these categories
-provider_indifference,provider indifference
-provider_minimizes_concerns,provider minimizes concerns
-provider_shared_identities,provider shared identities
+indifference,provider indifference
+minimization,provider minimizes concerns
+sharedidentities,provider shared identities
 racism,racism
-reproductive_related_condition,reproductive related condition
+reproductive,reproductive related condition
 sexism,sexism
-sexual_assault_or_trauma,sexual assault or trauma
-short_appointment_times,short appointment times
-sti_testing_and_care,sti testing and care
+assault,sexual assault or trauma
+shortappointments,short appointment times
+sticare,sti testing and care
 transphobia,transphobia
 transportation,transportation
-trauma_informed_care,trauma informed care
-white,Mixed-race perspectives
+traumainformedcare,trauma informed care
 wins,wins
