@@ -1,53 +1,51 @@
 tag,description
-ableism,"On ableism"
-accesing surgery or hormones,"On accesing surgery or hormones"
-admin and office,"On admin and office"
-affirming experiences,"On affirming experiences"
-american indian or native american,"On american indian or native american"
-american indian or native americanblack or african american,"On american indian or native americanblack or african american"
-anxiety,"On anxiety"
-asian,"On asian"
-avoiding care,"On avoiding care"
-black or african american,"On black or african american"
-chronic conditions,"On chronic conditions"
-competent care,"On competent care"
-contraception and birth control,"On contraception and birth control"
-cost of care,"On cost of care"
-covid-19,"On covid-19"
-delayed diagnosis,"On delayed diagnosis"
-delaying care,"On delaying care"
-fatphobia,"On fatphobia"
-homelessness,"On homelessness"
-homophobia,"On homophobia"
-insurance,"On insurance"
-intersex experiences,"On intersex experiences"
-lack of culturally competent providers,"On lack of culturally competent providers"
-lack of provider knowledge,"On lack of provider knowledge"
-latinx,"On latinx"
-long wait times and delays,"On long wait times and delays"
-medical harm,"On medical harm"
-medical trauma,"On medical trauma"
-middle eastern or north african,"On middle eastern or north african"
-middle easttern or northern african,"On middle easttern or northern african"
-misgendering,"On misgendering"
-native hawaiian or pacific islander,"On native hawaiian or pacific islander"
-navigating care,"On navigating care"
-neurodivergence,"On neurodivergence"
-new to oregon,"On new to oregon"
-other provider bias,"On other provider bias"
-overtreatment,"On overtreatment"
-prefer not to say or use these categories,"On prefer not to say or use these categories"
-provider indifference,"On provider indifference"
-provider minimizes concerns,"On provider minimizes concerns"
-provider shared identities,"On provider shared identities"
-racism,"On racism"
-reproductive related condition,"On reproductive related condition"
-sexism,"On sexism"
-sexual assault or trauma,"On sexual assault or trauma"
-short appointment times,"On short appointment times"
-sti testing and care,"On sti testing and care"
-transphobia,"On transphobia"
-transportation,"On transportation"
-trauma informed care,"On trauma informed care"
-white,"On white"
-wins,"On wins"
+ableism,ableism
+trans_care,accesing surgery or hormones
+admin_and_office,admin and office
+affirming,affirming experiences
+american_indian_or_native_american,american indian or native american
+anxiety,anxiety
+asian,Asian perspectives
+avoiding,avoiding care
+black_or_african_american,Black or African American perspectives
+chronic_conditions,chronic conditions
+competent_care,competent care
+contraception_and_birth_control,contraceptiand birth control
+cost_of_care,cost of care
+covid-19,covid-19
+delayed_diagnosis,delayed diagnosis
+delaying_care,delaying care
+fatphobia,fatphobia
+homelessness,homelessness
+homophobia,homophobia
+insurance,insurance
+intersex,intersex experiences
+culturally_competent_providers,lack of culturally competent providers
+provider_knowledge_gap,lack of provider knowledge
+latinx,Latinx perspectives
+long_wait_times_and_delays,long wait times and delays
+medical_harm,medical harm
+medical_trauma,medical trauma
+middle_eastern_or_north_african,middle eastern or north african
+misgendering,misgendering
+native_hawaiian_or_pacific_islander,Native Hawaiian or Pacific Islander perspectives
+navigating_care,navigating care
+neurodivergence,neurodivergence
+new_to_oregon,new to Oregon
+other_provider_bias,other provider bias
+overtreatment,overtreatment
+prefer_not_use_these_categories,prefer not to say or use these categories
+provider_indifference,provider indifference
+provider_minimizes_concerns,provider minimizes concerns
+provider_shared_identities,provider shared identities
+racism,racism
+reproductive_related_condition,reproductive related condition
+sexism,sexism
+sexual_assault_or_trauma,sexual assault or trauma
+short_appointment_times,short appointment times
+sti_testing_and_care,sti testing and care
+transphobia,transphobia
+transportation,transportation
+trauma_informed_care,trauma informed care
+white,Mixed-race perspectives
+wins,wins
