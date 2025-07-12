@@ -107,11 +107,11 @@ custom-foot: transcript/js/visualization-js.html
   <section class="contentsdiv" >
     <h3 class="my-4 {{transcript-name}}"><a href="{{transcript-name | prepend: '/items/' | append: '.html' | relative_url }}">{{ transcript_item.interviewee | default: transcript_item.title }}</a></h3>
     <table class="my-4 p-2 border {{transcript-name}} {%cycle 'bg-light','' %}">{%endif%}
-      <tr id="{{transcript-name}}row{{ forloop.index0 }}" class="{{item.tags | replace: ";", ""}}">
+      <tr id="{{transcript-name}}row{{ forloop.index0 }}" class="{{item.tags | replace: ";", " "}}">
         <td class="p-2" style="width:10%;vertical-align:top"><a href="{{ forloop.index0 | prepend: transcript-name | prepend: '.html?line=' | prepend: transcript-name | prepend: '/items/' | relative_url }}" aria-label="jump to Line {{ forloop.index0 }} from {{transcript-name}}'s interview, opens in new tab" class="small btn-link text-dark" tabindex="-1">Line {{ forloop.index0 }}</a></td>
         <td class="words p-2">
           <div id="spoken">{%if item.speaker%}{{item.words}}<br>
-            <i>I identify as:</i>{{item.speaker | remove: ":"}}.{%endif%}</div>
+            <i>I identify as: </i>{{item.speaker | remove: ":"}}{%endif%}</div>
         </td>
       </tr>
       {% if forloop.last%}</table>
